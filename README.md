@@ -17,19 +17,17 @@
 # Gün1 Notlar
 
 ## Veri
-Ham bilgi olup tek başına anlam ifade etmez, işlenerek enformasyon ve bilgiye dönüşebilir.
+Tek başına anlam ifade etmeyen veya kullanılamayan, bununla birlikte enformasyona ve
+bilgiye temel oluşturan ilişkilendirilmeye, gruplandırılmaya, yorumlanmaya, anlamlandırılmaya ve analiz edilmeye gereksinim duyulan ham bilgi
 
 ## Makine Öğrenimi (MÖ)
-Bilgisayarların verilerden öğrenmesini sağlayan yapay zeka dalıdır. Kalıpları tanıyıp tahminler yapabilir.
+Bilgisayarların verilerden öğrenmesini sağlayan yapay zeka dalı.
 
 ## Derin Öğrenme (DÖ)
 Makine öğreniminin bir alt dalıdır. Yapay sinir ağlarını kullanarak büyük veri setlerinden karmaşık desenleri öğrenir.
 
 ## Yapay Sinir Ağları (YSA)
 İnsan beyninden esinlenen, düğümlerden oluşan ağlardır. Karmaşık problemleri çözmede etkilidir.
-
-## Algoritma
-Bir problemi çözmek için adım adım talimatlar dizisi.
 
 ## Veri Seti
 Makine öğrenimi modellerini eğitmek ve test etmek için kullanılan veri grubudur.
@@ -67,7 +65,7 @@ Optimizasyon algoritması olup, model parametrelerini kademeli olarak en iyi de�
 3. **Zihin Teorisi**: İnsanların duygu ve düşüncelerini anlayabilen yapay zeka türüdür.
 
 ## Turing Testi
-Bir yapay zekanın insan gibi düşünebildiğini test etmek için kullanılır.
+Turing tarafından keşfedilmiştir. Bu oyunda biri sorgulayıcı olmak üzere üç insan vardır. Ve oyuncular birbirlerine telgraf ile bağlı olmak üzere üç farklı odada, hiçbir görsel ve işitsel temas bulunmadan konumlandırılmaktadırlar. Bu, sorgucunun sorduğu sorulara diğer oyuncuların verdiği cevaplara göre hangi odada insan hangi odada bilgisayar olduğunu tahmin etmesine dayalı bir oyundur.
 
 ## Veri Ön İşleme Süreci
 - **Normalizasyon**: Verileri belirli bir aralığa getirme.
@@ -87,18 +85,6 @@ Bir yapay zekanın insan gibi düşünebildiğini test etmek için kullanılır.
 - **Kümeleme (Clustering)** kullanılır.
 - Örn: Müşteri segmentasyonu.
 
-### Pekiştirmeli Öğrenme
-- Ödül-ceza mekanizmasıyla öğrenir.
-- Örn: Oyun oynayan yapay zeka.
-
-## Veri Seti Bölme Oranları
-- **80/20**: Eğitim %80, Test %20.
-- **70/30**: Eğitim %70, Test %30.
-- **60/20/20**: Eğitim %60, Doğrulama %20, Test %20.
-
-## Çok Kullanılan Modeller
-- **Lojistik Regresyon (Logistic Regression)**: Sınıflandırma problemlerinde kullanılır.
-- **Destek Vektör Makineleri (Support Vector Machines)**: Karar sınırlarını belirler.
 
 ## Confusion Matrix (Karmaşıklık Matrisi)
 - **TP (Doğru Pozitif)**: Gerçek pozitifleri doğru tahmin etme.
@@ -107,7 +93,9 @@ Bir yapay zekanın insan gibi düşünebildiğini test etmek için kullanılır.
 - **TN (Doğru Negatif)**: Gerçek negatifleri doğru tahmin etme.
 
 
-![Logo](https://upload.wikimedia.org/wikipedia/commons/c/c1/CBDDO_logo.svg)
+![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/CBDDO_logo.jpg/1200px-CBDDO_logo.jpg)
+![Logo](https://yt3.googleusercontent.com/ytc/AIdro_kLOSEsyFeqsa0nYGftu3uUbFhn-Aqyg_KXAnKKLeVBGg=s900-c-k-c0x00ffffff-no-rj)
+
 
 
 
