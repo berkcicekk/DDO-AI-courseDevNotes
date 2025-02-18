@@ -7,6 +7,12 @@
 ```http
   https://www.jetbrains.com/pycharm/
 ```
+#### python
+
+```http
+  https://www.python.org/
+```
+
 
 # Gün1 Notlar
 
