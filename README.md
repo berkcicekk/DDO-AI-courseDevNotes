@@ -94,7 +94,6 @@ Turing tarafından keşfedilmiştir. Bu oyunda biri sorgulayıcı olmak üzere �
 
 
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/CBDDO_logo.jpg/1200px-CBDDO_logo.jpg)
-![Logo](https://yt3.googleusercontent.com/ytc/AIdro_kLOSEsyFeqsa0nYGftu3uUbFhn-Aqyg_KXAnKKLeVBGg=s900-c-k-c0x00ffffff-no-rj)
 
 
 
